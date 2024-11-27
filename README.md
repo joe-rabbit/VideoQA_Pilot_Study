@@ -1,4 +1,4 @@
-# EYES ON THE ROAD: STATE-OF-THE-ART VIDEO QUESTION ANSWERING MODELS ASSESSMENT FOR TRAFFIC MONITORING TASKS
+# EYES ON THE ROAD: State-of-the-art Video Question Answering Models Assessment for Traffic Monitoring Tasks
 
 ---
 
